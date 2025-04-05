@@ -109,6 +109,11 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), linear-gradient(45deg, #e37682 15%, #5f4d93 85%);
 	}
 
+	.body-teal{
+		background-image: url("images/overlay.png"), linear-gradient(45deg,#fdbb2d  15%, #22c1c3 85%);
+
+	}
+
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
 			-webkit-animation: none !important;
